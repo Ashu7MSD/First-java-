@@ -1,0 +1,7 @@
+public class main{
+public static void main(String [] args)
+{
+System.out.print{"Ashutosh Swami};
+System.out.println{"Basweshwar Prabhakar Swami"};
+}
+}
